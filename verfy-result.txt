@@ -1,0 +1,232 @@
+>npm run verify
+
+> essay-extractor-claude-vs-gpt@1.0.0 verify
+> node verify-extraction.js
+
+Verifying 213 essays...
+[ID 1] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 2] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 3] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 4] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 5] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 6] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 7] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 8] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 9] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 10] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 11] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 12] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 13] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 14] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 15] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 16] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 17] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 18] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 19] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 20] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 21] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 22] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 23] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 24] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 25] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 26] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 27] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 28] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 29] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 30] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 31] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 32] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 33] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 34] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 35] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 36] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 37] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 38] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 39] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 40] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 41] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 42] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 43] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 44] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 45] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 46] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 47] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 48] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 49] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 50] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 51] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 52] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 53] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 54] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 55] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 56] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 57] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 58] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 59] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 60] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 61] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 62] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 63] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 64] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 65] Title mismatch: Extracted title not found in raw text.
+  Extracted: 一緒に生きる大切さを学んで ★「一緒に生きる大切さ」を学んで
+[ID 65] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 67] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 68] Title mismatch: Extracted title not found in raw text.
+  Extracted: 一滴の涙ある夏の出来事 ★「一滴の涙」ある夏の出来事
+[ID 68] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 69] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 70] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 71] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 72] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 73] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 74] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 75] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 76] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 77] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 78] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 79] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 80] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 81] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 82] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 83] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 84] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 85] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 86] Title mismatch: Extracted title not found in raw text.
+  Extracted: 『いのち』の重み ★「いのち」の重み
+[ID 86] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 87] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 88] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 89] Title mismatch: Extracted title not found in raw text.
+  Extracted: ＮＯ！と言える強い心をもつ
+〜ハンセン病問題から学んだこと〜 ★改行の有無なので差は無し
+[ID 89] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 90] Title mismatch: Extracted title not found in raw text.
+  Extracted: 被害者と加害者 それぞれの立場 ★空白の有無なので差は無し
+[ID 90] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 91] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 92] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 93] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 94] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 95] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 96] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 97] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 98] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 99] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 100] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 101] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 102] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 103] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 104] Title mismatch: Extracted title not found in raw text.
+  Extracted: 知るということ ★「知る」ということ
+[ID 104] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 105] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 106] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 107] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 108] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 109] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 110] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 111] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 112] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 113] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 114] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 115] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 116] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 117] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 118] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 119] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 120] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 121] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 122] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 123] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 124] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 125] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 126] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 127] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 128] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 129] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 130] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 131] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 132] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 133] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 134] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 135] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 136] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 137] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 138] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 139] Title mismatch: Extracted title not found in raw text.
+  Extracted: 『知る』努力と人権侵害 ★「知る」努力と人権侵害
+[ID 139] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 140] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 141] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 142] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 143] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 144] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 145] Title mismatch: Extracted title not found in raw text.
+  Extracted: 心をつなぎ 伝えたい ★空白の処理で実質差は無し
+[ID 145] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 146] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 147] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 148] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 149] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 150] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 151] Title mismatch: Extracted title not found in raw text.
+  Extracted: ふつうの多数決 ★「ふつう」の多数決
+[ID 151] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 152] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 153] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 154] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 155] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 156] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 169] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 170] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 171] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 172] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 173] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 174] Title mismatch: Extracted title not found in raw text.
+  Extracted: 気づきたい「笑顔」 ★空白の有無なので差は無し
+[ID 174] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 175] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 176] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 177] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 178] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 179] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 180] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 181] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 182] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 183] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 184] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 185] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 186] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 187] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 188] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 189] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 190] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 191] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 192] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 193] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 194] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 195] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 196] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 197] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 198] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 199] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 200] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 201] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 202] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 203] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 204] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 205] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 206] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 207] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 208] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 209] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 210] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 211] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 212] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+[ID 213] Body mismatch: Extracted body not found in raw text (possible LLM modification).
+
+Verification complete.
+Total checked: 213
+Issues found: 210
+❌ Some extractions may have been modified by the LLM.

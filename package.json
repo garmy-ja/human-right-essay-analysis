@@ -1,0 +1,21 @@
+{
+  "name": "essay-extractor-claude-vs-gpt",
+  "version": "1.0.0",
+  "description": "Extract essays from text files and store them in SQLite for analysis.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "init-db": "node db-init.js",
+    "import": "node import-essays.js",
+    "embed": "node embed-essays.js",
+    "verify": "node verify-extraction.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@lmstudio/sdk": "^2.0.0",
+    "better-sqlite3": "^11.0.0",
+    "dotenv": "^16.4.5"
+  }
+}

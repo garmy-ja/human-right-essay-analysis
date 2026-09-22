@@ -1,0 +1,3 @@
+-- Canonical analytical schema (implemented automatically by src/ingest.mjs)
+-- One row = one prize-winning essay.
+-- Keep body and raw_text separate: body is cleaned analytical text; raw_text is parser output.

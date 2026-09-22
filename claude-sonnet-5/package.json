@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "better-sqlite3": "^13.0.3",
+    "dotenv": "^17.4.2",
+    "p-limit": "^7.3.2",
+    "pdf-parse": "^2.4.5",
+    "zod": "^4.6.4"
+  }
+}

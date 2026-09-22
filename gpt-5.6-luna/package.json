@@ -1,0 +1,14 @@
+{
+  "name": "jinken-sakubun-ingest",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22.0.0" },
+  "scripts": {
+    "ingest": "node src/ingest.mjs"
+  },
+  "dependencies": {
+    "@firecrawl/anydoc": "^0.1.9",
+    "better-sqlite3": "^12.4.1"
+  }
+}
