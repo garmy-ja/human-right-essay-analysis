@@ -4,3 +4,5 @@ essay-text
 gpt-5.6-luna/output
 gpt-5.6-luna/output-ocr
 essays.db
+essays.sqbpro
+venv
