@@ -15,6 +15,13 @@ query = "SELECT id, year, grade, title, body, body_embedding FROM essays"
 df = pd.read_sql_query(query, conn)
 conn.close()
 
+# 埋め込みベクトルがNULLの行を除外
+initial_count = len(df)
+df = df.dropna(subset=['body_embedding'])
+dropped_count = initial_count - len(df)
+if dropped_count > 0:
+    print(f"警告: 埋め込みベクトルがNULLのデータを {dropped_count} 件除外しました。")
+
 print(f"読み込み完了: {len(df)} 件")
 
 # 2. JSON文字列として保存されている埋め込みベクトルをnumpy配列に変換
